@@ -3,7 +3,7 @@
 ### Edisson Echavarria
 Hola, mi nombre es Edisson Echavarria
 
-La IA <em>(Inteligencia Artificial)</em> podria definirse como <strong>la capacidad de emulacion de la intelegencia humana realizada por un ordenador o maquina
+La IA <em>(Inteligencia Artificial)</em> podria definirse como <strong>la capacidad de emulacion de la intelegencia humana realizada por un ordenador o maquina</strong>
 
 Para lograr ésto, los ordenadores o maquinas utilizan tecnicas de aprendizaje basadas en acciones desarroladas o de los mismos resultados.
 
