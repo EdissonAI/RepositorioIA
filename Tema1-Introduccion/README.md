@@ -12,3 +12,14 @@ identificando patrones por medio de la relacion entre entradas y salidas de dato
 
 Otra forma de entregar resultados es por medio de la clusterización o agrupacion de la informacion suministrada. Ésta es llamada aprendizaje no supervisado
 
+Los expertos dividen han dividido en tres etapas el desrrollo de la IA
+
+<ol>
+
+Estrecha o debil (ANI) ya que se enfoca en una sola tarea.
+
+General (AGI)cuando una maquina adquiere capacidades cognitivas.
+
+Superinteligencia Artificial (ASI) habra superado la humana.
+
+</ol>
