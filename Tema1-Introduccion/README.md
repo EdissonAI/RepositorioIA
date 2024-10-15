@@ -13,7 +13,7 @@ Otra forma de entregar resultados es por medio de la clusterización o agrupacio
 
 Otra forma de entrenanmiento es el llamado por refuerzo, el cual trabaja por ensayo y error, como los utilizados en los juegos
 
-Los expertos dividen han dividido en tres etapas el desrrollo de la IA
+Los expertos han dividido en tres etapas el desrrollo de la IA
 
 <ol>
 
