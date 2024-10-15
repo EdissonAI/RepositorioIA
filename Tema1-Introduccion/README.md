@@ -7,10 +7,11 @@ La IA <em>(Inteligencia Artificial)</em> podria definirse como <strong>la capaci
 
 Para lograr ésto, los ordenadores o maquinas utilizan tecnicas de aprendizaje basadas en acciones desarroladas o de los mismos resultados.
 
-Los tipos de aprendizaje de la IA nos entregan resultados basados en la forma en que se introduce a los modelos la informacion,
-identificando patrones por medio de la relacion entre entradas y salidas de datos suministrados. Ésta es llamada aprendizaje supervisado
+Los tipos de aprendizaje de la IA nos entregan resultados basados en la forma en que se introduce a los modelos la informacion,identificando patrones por medio de la relacion entre entradas y salidas de datos suministrados. Ésta es llamada aprendizaje supervisado
 
 Otra forma de entregar resultados es por medio de la clusterización o agrupacion de la informacion suministrada. Ésta es llamada aprendizaje no supervisado
+
+Otra forma de entrenanmiento es el llamado por refuerzo, el cual trabaja por ensayo y error, como los utilizados en los juegos
 
 Los expertos dividen han dividido en tres etapas el desrrollo de la IA
 
